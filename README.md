@@ -3,6 +3,15 @@
 Layouts for [TouchOSC](http://hexler.net/software/touchosc),
 edited with [TouchOSC Editor](http://hexler.net/docs/touchosc-editor-basics).
 
+## P5Camera
+
+A layout to drive the parameters of the [camera()](https://processing.org/reference/camera_.html)
+and [perspective()](https://processing.org/reference/perspective_.html) Processing functions.
+
+<img src="doc/images/P5Camera.png" height="175" title="P5Camera TouchOSC Layout" />
+
+[iPhone/iPad layout](./P5Camera.touchosc)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
