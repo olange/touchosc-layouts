@@ -11,7 +11,8 @@ and [perspective()](https://processing.org/reference/perspective_.html) Processi
 <img src="doc/images/P5Camera(iphone).png" height="175" title="P5Camera TouchOSC Layout · iPhone/iPod Touch"> <img src="doc/images/P5Camera(iphone6).png" height="175" title="P5Camera TouchOSC Layout · iPhone 6">
 
 [P5 Camera layout for iPhone/iPod Touch](iphone/P5Camera.touchosc) (480x320px)<br/>
-[P5 Camera layout for iPhone 6](iphone6/P5Camera.touchosc) (667x375px)
+[P5 Camera layout for iPhone 6](iphone6/P5Camera.touchosc) (667x375px)<br/>
+[P5 Camera layout for iPad Pro](ipadpro/P5Camera.touchosc) (1366x1024px)
 
 ## License
 
